@@ -1,4 +1,4 @@
-# ดาวโหลด Mod No Man Sky DEMO ภาษาไทยฟรี 2023
+# ดาวโหลด Mod -No Man Sky- DEMO ภาษาไทยฟรี 2023
 ## MOD ไทยสำหรับการทดลองใช้ 
 
 
@@ -9,9 +9,9 @@
 - ใช้ในการสตรีมเกมได้ โดยไม่แก้ไขดัดแปลโลโก้หรือข้อความ 
 - สระลอยและอาจจะไม่สมบูณ์ในการแสดงผล
 
-| DETAILE   | THE SIMS 4 Download MOD |
+| DETAILE   | NMS Download MOD |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ดาวโหลด  The Sims 4 MOD ไทยที่นี่ 2023](https://github.com/simscolony/TS4THDEMO/raw/master/%5BSIMSCOLONY%5D_SIMS4_TH_2023.package) |
+|GITHUB MOD ภาษาไทย   | [ดาวโหลด  No Man Sky](*) |
 |สนับสนุน   | [ simscolony](*) |
 |สนับสนุน   | [ simscolony](*) |
 
