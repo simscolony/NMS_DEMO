@@ -17,6 +17,7 @@
 -------------------------------------------
 # การลงไฟล์
 ![image](https://i.imgur.com/bvl8FiR.jpg)
+
 1.ไปที่ Folder Steam หรือที่ติดตั้งเกม
 >SteamLibrary\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS\
 
@@ -24,6 +25,7 @@
 
 
 ![image](https://i.imgur.com/g7uJOs5.jpg)
+
 2.ไห้นำFloder MODS ไปไว้ที่
 >SteamLibrary\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS\MODS
  
