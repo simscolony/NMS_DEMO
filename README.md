@@ -12,7 +12,7 @@
 
 | DETAILE   | NMS Download MOD |
 | ------------- | ------------- |
-|GITHUB MOD ภาษาไทย   | [ดาวโหลด  No Man Sky](https://github.com/simscolony/NMS_DEMO/raw/main/%5BSIMSCOLONY%5D%20NO%20MAN%20SKY.pak) |
+|์ NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky](https://github.com/simscolony/NMS_DEMO/raw/main/%5BSIMSCOLONY%5D%20NO%20MAN%20SKY.pak) |
 |สนับสนุน  ko-fi | [Ko-fi/simscolony](https://ko-fi.com/s/69427321ff) |
 
 การสนับสนุนทาง KO-FI จะได้อัพเดทก่อนทาง Github 
