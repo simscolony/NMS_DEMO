@@ -29,12 +29,12 @@
 1.ไปที่ Folder Steam หรือที่ติดตั้งเกม
 >SteamLibrary\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS\
 
-ลบไฟล์ทิ้ง >DISABLEMODS.TXT
+ลบไฟล์ทิ้ง >DISABLEMODS.TXT และสร้างไฟล์เดอร์ชื่อ MODS
 
 ![image](https://i.imgur.com/bvl8FiR.jpg)
 
 
-2.ไห้นำFloder MODS ไปไว้ที่
+2.ให้นไฟล์ที่ดาวโหลดไปใส่้ไว้ในโพลเดอร์ MODS
 >SteamLibrary\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS\MODS
 >
 >![image](https://i.imgur.com/g7uJOs5.jpg)
