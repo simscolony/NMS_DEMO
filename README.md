@@ -12,7 +12,7 @@
 
 | DETAILE   | NMS Download MOD |
 | ------------- | ------------- |
-|์ NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky](https://github.com/simscolony/NMS_DEMO/raw/main/%5BSIMSCOLONY%5D%20NO%20MAN%20SKY.pak) |
+| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.2](https://github.com/simscolony/NMS_DEMO/raw/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023.pak) |
 |สนับสนุน  ko-fi | [Ko-fi/simscolony](https://ko-fi.com/s/69427321ff) |
 
 การสนับสนุนทาง KO-FI จะได้อัพเดทก่อนทาง Github 
@@ -20,8 +20,9 @@
 ทุกการสนับสนุนจะได้นำไปรอพัฒนาเกม starfield ต่อไป
 
 - ภาพรวมการแปลล่าสุด 88% 
-- ไฟล์แจกฟรีแปลแล้ว 12% 
-- ไฟล์สนับสนุนแปลแล้ว 21% *รอดำเนินการเพิ่มคำแปล
+- ปรับปรถงคำแปลจากไม่พร้อมไม่แจก
+- ไฟล์แจกฟรีแปลแล้ว 20% 
+- ไฟล์สนับสนุนแปลแล้ว 22% *รอดำเนินการเพิ่มคำแปล
 -------------------------------------------
 # การลงไฟล์
 
