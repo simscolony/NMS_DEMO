@@ -45,3 +45,5 @@ https://simscolony.github.io/NMS_DEMO/NMS_FONT
 ------------------------------------------
 
 ![NO MAN SKY2](https://i.imgur.com/L4xFUm1.png)
+![NO MAN SKY2](https://github.com/simscolony/NMS_DEMO/blob/main/NOTO%20LOOP.png)
+![NO MAN SKY2](https://github.com/simscolony/NMS_DEMO/blob/main/NOTO%20LOOP%202.png)
