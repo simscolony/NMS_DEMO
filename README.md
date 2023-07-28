@@ -1,4 +1,4 @@
-![NO MAN SKY.](https://i.imgur.com/YgVQOK6.png](https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6_LimbicEntertainment_S3-2560x1440-82bcd83b988a5c3230ff8f191113d9b2.jpg)
+![NO MAN SKY.](https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6_LimbicEntertainment_S3-2560x1440-82bcd83b988a5c3230ff8f191113d9b2.jpg)
 # ดาวโหลด Mod -No Man Sky- DEMO ภาษาไทยฟรี 2023
 ## MOD ไทยสำหรับการทดลองใช้ 
 
