@@ -10,11 +10,11 @@
 - ใช้ Font ภาษาอังกฤษแบบแรกตอนแกมวาวจำหน่าย
 
 
-| DETAILE   | NMS Download MOD |
-| ------------- | ------------- |
-| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.3](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V3.pak) |
-| NMS [THAI-LANG] X simscolony   | [ดาวโหลด  No Man Sky V.1](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONY%20XTHAI-LANG%5D%20NMS_DEMO%20V1.pak) |
-|สนับสนุน  ko-fi | [Ko-fi/simscolony](https://ko-fi.com/s/69427321ff) |
+| DETAILE   | NMS Download MOD |อักษร
+| ------------- | ------------- |------------- |
+| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.3](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V3.pak) |หัวมล - ไม่มีหัว
+| NMS [THAI-LANG] X simscolony   | [ดาวโหลด  No Man Sky V.1](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONY%20XTHAI-LANG%5D%20NMS_DEMO%20V1.pak) |หัวกลม - มีหัว
+|สนับสนุน  ko-fi | [Ko-fi/simscolony](https://ko-fi.com/s/69427321ff) | แปลปัจจุบัน 95%
 
 * เลือกลงลิงค์ไหนก็ได้ แปลเท่านกัน
 
