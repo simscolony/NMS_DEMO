@@ -13,6 +13,7 @@
 | DETAILE   | NMS Download MOD |
 | ------------- | ------------- |
 | NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.2](https://github.com/simscolony/NMS_DEMO/raw/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V2.pak) |
+| NMS [THAI-LANG] X simscolony   | [ดาวโหลด  No Man Sky V.3]() |
 |สนับสนุน  ko-fi | [Ko-fi/simscolony](https://ko-fi.com/s/69427321ff) |
 
 การสนับสนุนทาง KO-FI จะได้อัพเดทก่อนทาง Github 
