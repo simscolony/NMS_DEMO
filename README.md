@@ -12,17 +12,19 @@
 
 | DETAILE   | NMS Download MOD |
 | ------------- | ------------- |
-| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.2](https://github.com/simscolony/NMS_DEMO/raw/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V2.pak) |
-| NMS [THAI-LANG] X simscolony   | [ดาวโหลด  No Man Sky V.3]() |
+| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.3](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V3.pak) |
+| NMS [THAI-LANG] X simscolony   | [ดาวโหลด  No Man Sky V.1](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONY%20XTHAI-LANG%5D%20NMS_DEMO%20V1.pak) |
 |สนับสนุน  ko-fi | [Ko-fi/simscolony](https://ko-fi.com/s/69427321ff) |
+
+* เลือกลงลิงค์ไหนก็ได้ แปลเท่านกัน
 
 การสนับสนุนทาง KO-FI จะได้อัพเดทก่อนทาง Github 
 สนับสนุนเพียงครั้งเดียวรอดาวโหลด์ไฟล์ใหม่ได้ตลอด
 https://simscolony.github.io/NMS_DEMO/NMS_FONT
 --------------------------------------------
 - ปรับปรงคำแปล จากไม่พร้อมไม่แจก
-- ไฟล์แจกฟรีแปลแล้ว 20%
-- ไฟล์สนับสนุนแปลแล้ว 90% *รอดำเนินการปรับคำสนับสนุนได้ที่
+- ไฟล์แจกฟรีแปลแล้ว 25%
+- ไฟล์สนับสนุนแปลแล้ว 98% *รอดำเนินการปรับคำเพิ่มเติม
 - พร้อมเริ่ม FONT ใหม่เลือกตามชอบ
 -------------------------------------------
 # การลงไฟล์
