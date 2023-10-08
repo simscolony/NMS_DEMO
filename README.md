@@ -12,15 +12,16 @@
 
 | DETAILE   | NMS Download MOD |อักษร
 | ------------- | ------------- |------------- |
-| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.2](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V2.pak) |หัวมล - ไม่มีหัว
-| NMS [THAI-LANG] X simscolony   | [ดาวโหลด  No Man Sky V.1](-) |หัวกลม - มีหัว
+| NMS ไม่พร้อมไม่แจก X simscolony  6-2023 | [ดาวโหลด  No Man Sky V.2](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V2.pak) |หัวมล - ไม่มีหัว
+| NMS [THAI-LANG] X simscolony 10-2023 | [ดาวโหลด  No Man Sky V.1](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONY%5D%20ARTDEK-CCX-NMS%20DEMO.pak) |หัวกลม - มีหัว
 |สนับสนุน  ko-fi | [Ko-fi/simscolony](https://ko-fi.com/s/69427321ff) | แปลปัจจุบัน 95%
 
 * เลือกลงลิงค์ไหนก็ได้ แปลเท่านกัน
 
 การสนับสนุนทาง KO-FI จะได้อัพเดทก่อนทาง Github 
 สนับสนุนเพียงครั้งเดียวรอดาวโหลด์ไฟล์ใหม่ได้ตลอด
-https://simscolony.github.io/NMS_DEMO/NMS_FONT
+[NMS Font Support ]([https://ko-fi.com/s/69427321ff](https://simscolony.github.io/NMS_DEMO/NMS_FONT))
+
 --------------------------------------------
 - ปรับปรงคำแปล จากไม่พร้อมไม่แจก
 - ไฟล์แจกฟรีแปลแล้ว 25%
