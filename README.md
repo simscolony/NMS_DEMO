@@ -13,8 +13,8 @@
 
 | DETAILE   | NMS Download MOD |อักษร
 | ------------- | ------------- |------------- |
-| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.2](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V4.pak) |หัวมล - ไม่มีหัว
-| NMS [THAI-LANG] X simscolony  | [ดาวโหลด  No Man Sky V.1](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONY%20XTHAI-LANG%5D%20NMS_DEMO%20V1.pak) |หัวกลม - มีหัว
+| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.2](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V2.pak) |หัวมล - ไม่มีหัว
+| NMS [THAI-LANG] X simscolony  | [ดาวโหลด  No Man Sky V.1](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONY%5D%20NMS-DEMO%20V1.pak) |หัวกลม - มีหัว
 |สนับสนุน  ko-fi | [Ko-fi/simscolony](https://ko-fi.com/s/69427321ff) | แปลปัจจุบัน 95%
 
 * เลือกลงลิงค์ไหนก็ได้ ไฟล์แปลเท่ากัน แต่ Font คนละตัว
