@@ -21,7 +21,7 @@
 
 การสนับสนุนทาง KO-FI จะได้อัพเดทก่อนทาง Github 
 สนับสนุนเพียงครั้งเดียวรอดาวโหลด์ไฟล์ใหม่ได้ตลอด
-[NMS Font Support ]([https://simscolony.github.io/NMS_DEMO/NMS_FONT)
+[NMS Font Support ](https://simscolony.github.io/NMS_DEMO/NMS_FONT)
 
 --------------------------------------------
 - บั้หเควสยาว อาจจะแสดงผลผิดพลาด เนื่องจากตัวแปลงเข้าเกมยังไม่ล่าสุด
