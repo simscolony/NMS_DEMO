@@ -1,5 +1,5 @@
-![NO MAN SKY.](https://camo.githubusercontent.com/690538d35bc3e04f1cf7ebe4cc8132c738a556c11f7bd0684c9ef46f53a40f9f/68747470733a2f2f692e696d6775722e636f6d2f596756514f4b362e706e67)
-# ดาวโหลด Mod -No Man Sky- DEMO ภาษาไทยฟรี 2023
+![NO MAN SKY OMEGA](https://gadgetmates.com/wp-content/uploads/2024/02/omega-book-cover-v21.png)
+# ดาวโหลด Mod -No Man Sky- DEMO ภาษาไทยฟรี 2024
 ## MOD ไทยสำหรับการทดลองใช้ 
 
 ### เงื่อนไขการใช้งาน
@@ -9,13 +9,12 @@
 - สระลอยและอาจจะไม่สมบูณ์ในการแสดงผล
 - ใช้ Font ภาษาอังกฤษแบบแรกตอนแกมวาวจำหน่าย
 
-#  Mod -No Man Sky- อัปเดท 8 ตุลาคม2023
+#  Mod -No Man Sky- อัปเดท 27 กุมภาพันธ์ 2567
 
 | DETAILE   | NMS Download MOD |อักษร
 | ------------- | ------------- |------------- |
-| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.2](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V2.pak) |หัวมล - ไม่มีหัว
-| NMS [THAI-LANG] X simscolony  | [ดาวโหลด  No Man Sky V.1](https://github.com/simscolony/NMS_DEMO/blob/main/%5BSIMSCOLONY%5D%20NMS-DEMO%20V1.pak) |หัวกลม - มีหัว
-|สนับสนุน  ko-fi | [Ko-fi/simscolony](https://ko-fi.com/s/69427321ff) | แปลปัจจุบัน 95%
+| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.2](https://github.com/simscolony/NMS_DEMO/raw/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V3.pak) |หัวมล - ไม่มีหัว
+|สนับสนุน  ko-fi | [Ko-fi/simscolony](https://simscolony.gumroad.com/) | แปลปัจจุบัน 99%
 
 * เลือกลงลิงค์ไหนก็ได้ ไฟล์แปลเท่ากัน แต่ Font คนละตัว
 
