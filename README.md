@@ -15,12 +15,12 @@
 | DETAILE   | NMS Download MOD |อักษร
 | ------------- | ------------- |------------- |
 | NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky V.2](https://github.com/simscolony/NMS_DEMO/raw/main/%5BSIMSCOLONYXnotreadynotgive%5D%20NO%20MAN%20SKY%20TH%202023%20-%20V3.pak) |หัวมล - ไม่มีหัว
-|สนับสนุน  gumroad | [Ko-fi/simscolony](https://simscolony.gumroad.com/) | แปลปัจจุบัน 99%
-
-* เลือกลงลิงค์ไหนก็ได้ ไฟล์แปลเท่ากัน แต่ Font คนละตัว
+|สนับสนุน  gumroad | [gumroad/simscolony](https://simscolony.gumroad.com/) | แปลปัจจุบัน 99%
 
 การสนับสนุนทาง gumroad จะได้อัพเดทก่อนทาง Github 
 สนับสนุนเพียงครั้งเดียวรอดาวโหลด์ไฟล์ใหม่ได้ตลอด
+
+* เลือกลงลิงค์ไหนก็ได้ ไฟล์แปลเท่ากัน แต่ Font คนละตัว
 [NMS Font Support ](https://simscolony.github.io/NMS_DEMO/NMS_FONT)
 
 --------------------------------------------
