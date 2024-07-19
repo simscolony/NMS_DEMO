@@ -17,7 +17,7 @@
 
 | DETAILE   | NMS Download MOD |อักษร
 | ------------- | ------------- |------------- |
-| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky  DEMO 2024]) |หัวมล - ไม่มีหัว
+| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky  DEMO 2024](https://github.com/simscolony/NMS_DEMO/raw/main/%5BSIMSCOLONY%5DNMS-NOTO_DEMO_2024.pak) |หัวมล - ไม่มีหัว
 |สนับสนุน  gumroad | [gumroad/simscolony](https://simscolony.gumroad.com/) | แปลปัจจุบัน 80%
 
 การสนับสนุนทาง gumroad จะได้อัพเดทก่อนทาง Github 
