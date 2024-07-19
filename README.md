@@ -1,10 +1,11 @@
 
 ![NO MAN SKY2](https://i.imgur.com/L4xFUm1.png)
+![NO MAN SKY2](https://i.imgur.com/jFaay7a.png)
 # ดาวโหลด Mod -No Man Sky- DEMO ภาษาไทยฟรี 2024
 ## MOD ไทยสำหรับการทดลองใช้ 
 
 ![NO MAN SKY hello game](https://i.imgur.com/jFaQLqy.png)
-![NO MAN SKY hello game](https://gadgetmates.com/wp-content/uploads/2024/02/omega-book-cover-v21.png)
+
 ### เงื่อนไขการใช้งาน
 - ใช้งานได้ฟรี ตามเกมล่าสุด
 - ไม่อนุญาติให้รีอัพโหลด แก้ไข ดัดแปลง ทำซ้ำในเชิงพาณิชย์ 
@@ -52,10 +53,9 @@
 ![NO MAN SKY OMEGA](https://gadgetmates.com/wp-content/uploads/2024/02/omega-book-cover-v21.png)
 ![NO MAN SKY hello game](https://i.imgur.com/u51cptK.png)
 ![NO MAN SKY hello game](https://i.imgur.com/H3I5fH6.png)
-blob:https://imgur.com/e36e9a58-3f1c-4962-ab2a-b66d75d91908
 ![NO MAN SKY hello game](https://i.imgur.com/BnbnWAr.png)
 ![NO MAN SKY hello game](https://i.imgur.com/oGsnihb.png)
-
+![NO MAN SKY hello game](https://gadgetmates.com/wp-content/uploads/2024/02/omega-book-cover-v21.png)
 
 
 ![NO MAN SKY2](https://github.com/simscolony/NMS_DEMO/blob/main/NOTO%20LOOP.png?raw=true)
