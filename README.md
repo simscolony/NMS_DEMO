@@ -20,6 +20,8 @@
 | NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky  DEMO 2024](https://github.com/simscolony/NMS_DEMO/raw/main/%5BSIMSCOLONY%5DNMS-NOTO_DEMO_2024.pak) |หัวมล - ไม่มีหัว
 |สนับสนุน  gumroad | [gumroad/simscolony](https://simscolony.gumroad.com/) | แปลปัจจุบัน 80%
 
+* ยังมีการแสดงผลไม่ตรงเนื่องจากมีแพทต์อัพเดทจากทางเกมหลัก บางส่วนจะไม่แสดงผลหรือสลับกัน รออัพเดทอักรอบนะคับ อาจจะเล่นแล้วแปลไม่ครบหรือสลับกัน
+
 การสนับสนุนทาง gumroad จะได้อัพเดทก่อนทาง Github 
 สนับสนุนเพียงครั้งเดียวรอดาวโหลด์ไฟล์ใหม่ได้ตลอด
 
