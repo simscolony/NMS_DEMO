@@ -39,21 +39,19 @@
 - พร้อมเริ่ม FONT ใหม่เลือกตามชอบ
 -------------------------------------------
 # การลงไฟล์
+1. แตกไฟล์  Zip ด้วย 7Zip
+![NO MAN SKY hello game](https://i.imgur.com/Eplyftw.jpeg)
 
-1.ไปที่ Folder Steam หรือที่ติดตั้งเกม
->SteamLibrary\steamapps\common\No Man's Sky\GAMEDATA\MODS\
->
+2. ไปที่ Folder Steam หรือที่ติดตั้งเกม >SteamLibrary\steamapps\common\No Man's Sky\GAMEDATA ทำการสร้าง Floder \MODS\ ตามภาพ
+![NO MAN SKY hello game](https://i.imgur.com/K5NXlQY.jpeg)
 Example: 
-
 No Man's Sky/GAMEDATA/MODS - steam
-
 No Man's Sky/Content/GAMEDATA/MODS - Xbox
 
-และสร้างไฟล์เดอร์ชื่อ MODS
+3.เลือกแบบอักษรนำลง Floder จากนั้นเข้าเกมได้ทันที
+  ![NO MAN SKY hello game](https://i.imgur.com/wZbLtd6.jpeg)
 
-
- 
-3.เล่มเกมได้ทันที
+4.เล่มเกมได้ทันที
 ------------------------------------------
 ![NO MAN SKY OMEGA](https://gadgetmates.com/wp-content/uploads/2024/02/omega-book-cover-v21.png)
 ![NO MAN SKY hello game](https://i.imgur.com/u51cptK.png)
