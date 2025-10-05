@@ -3,7 +3,7 @@
 ![NO MAN SKY2](https://i.imgur.com/jFaay7a.png)
 # ดาวโหลด Mod -No Man Sky- DEMO ภาษาไทยฟรี 2025
 
-## MOD ไทยสำหรับการทดลองใช้ อัพเดท 19 กุมภาพันธ์ 2568
+## MOD ไทยสำหรับการทดลองใช้ อัพเดท 10 ตุลาคม 2568
 
 ![NO MAN SKY hello game](https://i.imgur.com/jFaQLqy.png)
 ![NO MAN SKY hello game](https://i.ytimg.com/vi/zu-OxnMETY0/maxresdefault.jpg)
@@ -13,13 +13,13 @@
 - ไม่อนุญาติให้รีอัพโหลด แก้ไข ดัดแปลง ทำซ้ำในเชิงพาณิชย์ 
 - ใช้ในการสตรีมเกมได้ โดยไม่แก้ไขดัดแปลโลโก้หรือข้อความ 
 - สระลอยและอาจจะไม่สมบูณ์ในการแสดงผล
-- ใช้ Font ภาษาอังกฤษแบบแรกตอนแกมวาวจำหน่าย
+- ใช้ Font ภาษาอังกฤษแบบแรกตอนแกม
   
 
 | DETAILE   | NMS Download MOD |อักษร
 | ------------- | ------------- |------------- |
-| NMS ไม่พร้อมไม่แจก X simscolony   | [ดาวโหลด  No Man Sky  DEMO 2025](https://raw.githubusercontent.com/simscolony/NMS_DEMO/refs/heads/main/No%20man%20sky%20demo%202025.7z) |หัวมล - ไม่มีหัว
-|สนับสนุน  gumroad | [gumroad/simscolony](https://simscolony.gumroad.com/) | แปลปัจจุบัน 97%
+| NMS ไม่พร้อมไม่แจก X simscolony - DEMO ฟรี   | [ดาวโหลด  No Man Sky  DEMO 2025](https://raw.githubusercontent.com/simscolony/NMS_DEMO/refs/heads/main/No%20man%20sky%20demo%202025.7z) |หัวมล - ไม่มีหัว
+|สนับสนุน  itch | [itch/simscolony](https://simscolony.itch.io/no-mans-sky-voyagers-2025) | แปลปัจจุบัน 97%
 
 * ยังมีการแสดงผลไม่ตรงเนื่องจากมีแพทต์อัพเดทจากทางเกมหลัก บางส่วนจะไม่แสดงผลหรือสลับกัน รออัพเดทอักรอบนะคับ อาจจะเล่นแล้วแปลไม่ครบหรือสลับกัน
 
