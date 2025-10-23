@@ -6,7 +6,8 @@
 ## MOD ไทยสำหรับการทดลองใช้ อัพเดท 10 ตุลาคม 2568
 
 ![NO MAN SKY hello game](https://i.imgur.com/jFaQLqy.png)
-![NO MAN SKY hello game](https://i.ytimg.com/vi/zu-OxnMETY0/maxresdefault.jpg)
+![NO MAN SKY hello game](https://images2.imgbox.com/02/79/YSGMMVfN_o.jpg)
+![NO MAN SKY hello game](https://images2.imgbox.com/77/3e/s3O51UkW_o.jpg)
 
 ### เงื่อนไขการใช้งาน
 - ใช้งานได้ฟรี ตามเกมล่าสุด
@@ -51,7 +52,6 @@ No Man's Sky/Content/GAMEDATA/MODS - Xbox
 
 4.เล่มเกมได้ทันที
 ------------------------------------------
-![NO MAN SKY OMEGA](https://gadgetmates.com/wp-content/uploads/2024/02/omega-book-cover-v21.png)
 ![NO MAN SKY hello game](https://i.imgur.com/u51cptK.png)
 ![NO MAN SKY hello game](https://i.imgur.com/H3I5fH6.png)
 ![NO MAN SKY hello game](https://i.imgur.com/BnbnWAr.png)
